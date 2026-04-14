@@ -1,0 +1,13 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_0805_2012Metric";1;"100uf";;;
+2;"J_PWR1";"PinHeader_1x02_P2.54mm_Vertical";1;"PWR_IN";;;
+3;"J1";"PinHeader_1x06_P2.54mm_Vertical";1;"Conn_01x06_Pin";;;
+4;"R4,R3,R1,R2";"R_0805_2012Metric";4;"1k";;;
+5;"J5,J3,J4,J2";"TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal";4;"SCREW_3P";;;
+6;"C3";"C_0402_1005Metric";1;"100nf";;;
+7;"K3,K2,K1,K4";"Relay_SPDT_CUI_SR5";4;"SRD05VDC-SL-C";;;
+8;"U1";"SOIC-16_3.9x9.9mm_P1.27mm";1;"ULN2003A";;;
+9;"R7,R6,R8,R5";"R_0805_2012Metric";4;"1K";;;
+10;"D4,D2,D3,D1";"LED_0805_2012Metric";4;"LED_GREEN";;;
+11;"C2";"C_0805_2012Metric";1;"100nf";;;
+12;"D6,D5,D7,D8";"D_DO-35_SOD27_P10.16mm_Horizontal";4;"1N4007";;;
